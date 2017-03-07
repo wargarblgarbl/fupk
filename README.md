@@ -7,3 +7,5 @@ Adjust URLs as necessary. Probably for production use only if your EvE online co
 
 
 DID YOU KNOW? POITOT IS THE ONLY NAMED SYSTEM IN SYNDICATE!
+
+Zkillboard URL is broken in the current source, since for some reason zkillboard api stopped allowing us to only grab the last 100 or so things. 
